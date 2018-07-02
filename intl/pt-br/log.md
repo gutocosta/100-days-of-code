@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Dia 1: 01 de Junho, 2018
+### Dia 0: 01 de Junho, 2018
 
 **Progresso do dia:** ToDo do tema.
 
